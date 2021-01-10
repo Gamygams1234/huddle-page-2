@@ -1,7 +1,8 @@
-h1 {
-    color: red;
-    font-family: "Poppins", sans-serif;
-    font-weight: 600;
-    font-size: 100px;
-    background-color: blue;
+.header {
+    .container {
+        display: flex;
+        justify-content: space-between;
+        height: 100px;
+        align-items: center;
+    }
 }
