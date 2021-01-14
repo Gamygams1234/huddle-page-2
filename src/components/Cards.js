@@ -1,5 +1,6 @@
 import growTogether from "../images/illustration-grow-together.svg";
 import flowingConversation from "../images/illustration-flowing-conversation.svg";
+import yourUsers from "../images/illustration-your-users.svg";
 
 
 import React from "react";
@@ -28,7 +29,7 @@ export default function Cards() {
         </div>
         <div className="media-card">
           <div className="icon mt-4 mb-4">
-            <img src={growTogether} alt="" />
+            <img src={yourUsers} alt="" />
           </div>
           <div className="text mt-4 mb-4">
             <h2 className="fw-600 mb-3">Your Users</h2>
