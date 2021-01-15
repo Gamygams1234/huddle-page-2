@@ -138,6 +138,10 @@ p {
     top: 100px;
     z-index: 4;
     background-color: white;
+    width: 70%;
+    max-width: 700px;
+    min-width: 200px;
+    margin: 0 auto;
 }
 .footer {
     padding-bottom: 30px;
